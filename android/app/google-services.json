@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265282367408",
+    "project_id": "game-web-1",
+    "storage_bucket": "game-web-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265282367408:android:2d032194457e3df426b075",
+        "android_client_info": {
+          "package_name": "com.TDcompany.englishwordremembergame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq-Qxt0LATtR7Me0KDtt2HAwx8kvSc1Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

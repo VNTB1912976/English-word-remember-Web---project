@@ -1,2 +1,7 @@
-# English-word-remember-Web---project
-the project involved creating a website for students in Korea to apply games to learning English
+# English word remember game
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
